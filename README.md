@@ -38,7 +38,7 @@ Python, JavaScript / TypeScript, C — with structured per-function documentatio
 doc_tool/
 ├── main.py              # Streamlit UI
 ├── requirements.txt
-├── .env.example
+├── .env                 #To be added
 └── utils/
     ├── config.py        # Constants and environment variables
     ├── llm_utils.py     # Groq API calls, generation, summarisation
