@@ -1,3 +1,9 @@
+"""
+Converts results from the questionnaire into a more structured and useful format.
+Usage:
+    python questionnaire_cleaning.py
+"""
+
 import pandas as pd
 
 # ==========================================
