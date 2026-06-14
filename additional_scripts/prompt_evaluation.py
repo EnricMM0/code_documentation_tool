@@ -1,6 +1,4 @@
 """
-eval_23.py  –  Section 2.3 parameter tuning evaluation
--------------------------------------------------------
 Evaluates zero-shot, one-shot, and three-shot prompting strategies
 on 2000 stratified functions from the CodeSearchNet Python test split.
 
@@ -9,7 +7,6 @@ Requirements:
 
 Usage:
     python eval_23.py --api-key <GROQ_API_KEY>
-    python eval_23.py --api-key <GROQ_API_KEY> --workers 8
 """
 
 import argparse
