@@ -1,6 +1,6 @@
 """
 Converts results from the questionnaire into a more structured and useful format.
-Usage:
+Usage: 
     python questionnaire_cleaning.py
 """
 
