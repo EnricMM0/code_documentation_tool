@@ -6,7 +6,7 @@ Requirements:
     pip install datasets sacrebleu rouge-score bert-score groq tqdm numpy pandas
 
 Usage:
-    python eval_23.py --api-key <GROQ_API_KEY>
+    python promt_evaluation.py --api-key <GROQ_API_KEY>
 """
 
 import argparse
