@@ -2,7 +2,7 @@
 eval_23.py  –  Section 2.3 parameter tuning evaluation
 -------------------------------------------------------
 Evaluates zero-shot, one-shot, and three-shot prompting strategies
-on 500 stratified functions from the CodeSearchNet Python test split.
+on 2000 stratified functions from the CodeSearchNet Python test split.
 
 Requirements:
     pip install datasets sacrebleu rouge-score bert-score groq tqdm numpy pandas
